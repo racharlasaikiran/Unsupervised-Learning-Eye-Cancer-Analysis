@@ -15,7 +15,7 @@ This project applies **unsupervised machine learning techniques** to analyze and
 - **Matplotlib, Seaborn** – Data visualization
 - **Scikit-learn** – Machine learning and preprocessing
 
-## 🧪 Project Workflow
+## Project Workflow
 #### Exploratory Data Analysis (EDA)
 - Checked data types, missing values, and duplicates
 - Analyzed categorical and numerical distributions
